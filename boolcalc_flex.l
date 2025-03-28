@@ -1,6 +1,6 @@
 %{
   #include <stdio.h>
-  #include "boolcalc.tab.h"
+  #include "boolcalc_bison.tab.h"
 
 %}
 %option noyywrap
