@@ -1,6 +1,6 @@
-# BoolCalc
+# Boolean Calculator
 
-BoolCalc is a simple Boolean expression calculator implemented using **Lex** and **Yacc** in **C**. It supports standard Boolean operations and evaluates logical expressions written by the user, demonstrating compiler design concepts such as lexical analysis, parsing, and code generation.
+A simple Boolean expression calculator implemented using **Lex** and **Yacc** in **C**. It supports standard Boolean operations and evaluates logical expressions written by the user, demonstrating compiler design concepts such as lexical analysis, parsing, and code generation.
 
 ## 📌 Features
 
