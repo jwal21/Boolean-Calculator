@@ -2,7 +2,7 @@
 
 A simple Boolean expression calculator implemented using **Lex** and **Yacc** in **C**. It supports standard Boolean operations and evaluates logical expressions written by the user, demonstrating compiler design concepts such as lexical analysis, parsing, and code generation.
 
-## 📌 Features
+##  Features
 
 - Supports Boolean constants: `true`, `false`
 - Recognizes logical operators: `!` (NOT), `&&` (AND), `||` (OR)
@@ -10,12 +10,12 @@ A simple Boolean expression calculator implemented using **Lex** and **Yacc** in
 - Parses and evaluates complex nested Boolean expressions
 - Provides syntax error handling and basic input validation
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language**: C  
 - **Tools**: Lex (Flex), Yacc (Bison)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
